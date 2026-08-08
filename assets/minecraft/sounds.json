@@ -1,0 +1,47 @@
+{
+  "entity.bat.ambient": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:silent",
+        "type": "event"
+      }
+    ]
+  },
+  "entity.bat.hurt": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:silent",
+        "type": "event"
+      }
+    ]
+  },
+  "entity.bat.death": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:silent",
+        "type": "event"
+      }
+    ]
+  },
+  "entity.bat.loop": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:silent",
+        "type": "event"
+      }
+    ]
+  },
+  "entity.bat.takeoff": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:silent",
+        "type": "event"
+      }
+    ]
+  }
+}

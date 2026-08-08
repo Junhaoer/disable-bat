@@ -1,0 +1,9 @@
+{
+	"pack": {
+		"description": "Disables bat model and sounds. §bBy Jun_haoer",
+        "pack_format": 88,
+        "supported_formats": [1, 95],
+        "min_format": 1,
+        "max_format": 95
+    }
+}
